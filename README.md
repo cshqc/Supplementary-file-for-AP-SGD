@@ -1,2 +1,2 @@
-# Supplementary-file-for-DecSGD
-This is the supplementary file for paper entitled "A Decoupled Stochastic Optimization Approach to Efficient Nonstandard Tensor Representation Learning."
+# Supplementary-file-for-AP-SGD
+This is the supplementary file for paper entitled "A Highly Efficient Latent-Factorization-of-Tensors Model via Asynchronously Parallel Stochastic Gradient Descent."
